@@ -8,9 +8,13 @@ Users can create, edit, and delete notes securely with authentication and rate-l
 Features:
 
 Create, Read, Update, and Delete (CRUD) notes
+
 Responsive frontend built with React + TailwindCSS 
+
 RESTful API built with Express.js and Node.js
+
 Data stored in MongoDB Atlas
+
 Rate limiting to enhance security and reliability
 
 Tech Stack:
