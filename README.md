@@ -2,13 +2,15 @@
 📝 MERN Note Taking Application
 A full-stack note-taking application built with the MERN stack (MongoDB, Express.js, React, Node.js).
 Users can create, edit, and delete notes securely with authentication and rate-limiting to prevent abuse.
-Features
+
+Features:
 Create, Read, Update, and Delete (CRUD) notes
 Responsive frontend built with React + TailwindCSS 
 RESTful API built with Express.js and Node.js
 Data stored in MongoDB Atlas
 Rate limiting to enhance security and reliability
-Tech Stack
+
+Tech Stack:
 Frontend: React, TailwindCSS
 Backend: Node.js, Express.js
 Database: MongoDB Atlas
